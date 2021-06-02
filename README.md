@@ -13,3 +13,6 @@
 
 #### Groups
 - [DC Perl Mongers](http://dc.pm.org/)
+
+#### On-Line Colleagues
+- swaggboi Code: https://codeberg.org/swaggboi/, Web: http://swagg.net
