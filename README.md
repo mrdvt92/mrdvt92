@@ -15,4 +15,5 @@
 - [DC Perl Mongers](http://dc.pm.org/)
 
 #### On-Line Colleagues
-- swaggboi Code: https://codeberg.org/swaggboi/, Web: http://swagg.net
+- swaggboi - https://codeberg.org/swaggboi/, http://swagg.net
+- pth - https://github.com/pkmnx
