@@ -1,7 +1,7 @@
 ### Michael R. Davis
 
 #### Open Source Projects
-- [GitHub Repositories](https://github.com/mrdvt92?tab=repositories)
+- [GitHub Repositories](https://github.com/mrdvt92?tab=repositories&type=source)
 - [CPAN Distributions](https://metacpan.org/author/MRDVT)
 
 #### Areas of Interest
