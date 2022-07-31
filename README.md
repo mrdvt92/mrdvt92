@@ -17,3 +17,7 @@
 #### On-Line Colleagues
 - swaggboi - https://codeberg.org/swaggboi/, http://swagg.net
 - pth - https://github.com/pkmnx
+
+#### GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mrdvt92&show_icons=true&hide_title=true)
