@@ -3,6 +3,7 @@
 #### Open Source Projects
 - [GitHub Repositories](https://github.com/mrdvt92?tab=repositories&type=source)
 - [CPAN Distributions](https://metacpan.org/author/MRDVT)
+- [CentOS 7 RPM Repository](http://linux.davisnetworks.com/el7/) ([install](http://linux.davisnetworks.com/el7/updates/mrdvt92-release-8-2.el7.mrdvt92.noarch.rpm))
 
 #### Areas of Interest
 - [Perl](https://www.perl.org/)
