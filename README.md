@@ -18,6 +18,7 @@
 #### On-Line Colleagues
 - swaggboi - https://codeberg.org/swaggboi/, http://swagg.net
 - pth - https://github.com/pkmnx
+- ba36 - https://github.com/bobacacio36, https://github.com/bobbyacacioartsandsciences
 
 #### GitHub Stats
 
